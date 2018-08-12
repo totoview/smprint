@@ -1,0 +1,16 @@
+{
+  "name": "smprint",
+  "version": "1.0.0",
+  "description": "A simple source map printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "source-map": "^0.7.3"
+  }
+}
